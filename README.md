@@ -1,4 +1,4 @@
-# FedID CG Federated Credentials Management
+FedID CG Federated Credentials Management
 
 This is the repository for the W3C's FedID CG Federated Credentials Management API.
 
